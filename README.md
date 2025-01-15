@@ -6,7 +6,9 @@ The core functionality revolves around extracting pose and skeletal data using M
 This solution prioritizes simplicity and accessibility. The lightweight nature of Mediapipe ensures real-time processing even on moderately powerful hardware. With just a few dependencies and a well-documented setup guide, the repository is ideal for developers, researchers, and hobbyists seeking to explore motion capture without investing in expensive hardware or complex software. Additionally, the modular code structure makes it easy to integrate with existing Python-based workflows or extend functionality as needed.
 
 To get started, users only need Python 3.7 or higher and a webcam or video file. The repository includes a step-by-step guide to installing dependencies, running the script, and visualizing motion data. Sample code and visual outputs demonstrate how to extract and interpret skeletal landmarks for various use cases. By combining Mediapipe’s robust tracking capabilities with Python's versatility, this project offers an excellent entry point for anyone interested in motion capture technology.
+But this seems not to work exporting and the json doesnt support most of the 3d softwares outhere.
 
+IM LIMITED BY THE TECHNOLOGY OF MY TIME.
 
 
 
